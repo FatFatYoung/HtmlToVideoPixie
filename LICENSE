@@ -1,0 +1,60 @@
+MIT License
+
+Copyright (c) 2026 FatFatYoung
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+Third-Party Licenses
+
+This software uses the following third-party libraries:
+
+--------------------------------------------------------------------------------
+
+requests
+License: Apache License 2.0
+Copyright: Copyright 2019 Kenneth Reitz
+Website: https://requests.readthedocs.io
+
+--------------------------------------------------------------------------------
+
+playwright-python
+License: Apache License 2.0
+Copyright: Copyright 2011-2024 Microsoft Corporation
+Website: https://playwright.dev/python/
+
+--------------------------------------------------------------------------------
+
+Pillow
+License: Historical Permission Notice and Disclaimer (HPND)
+Copyright: Copyright 1997-2011 by Secret Labs AB, Copyright 1995-2011 by Fredrik Lundh, Copyright 2010-2024 by Alex Clark and contributors
+Website: https://python-pillow.org
+
+--------------------------------------------------------------------------------
+
+FFmpeg
+License: LGPL/GPL
+Copyright: Copyright 2000-2024 FFmpeg developers
+Website: https://ffmpeg.org
+Note: FFmpeg is bundled with this software as a standalone executable.
+
+================================================================================
+
+End of Third-Party Licenses
